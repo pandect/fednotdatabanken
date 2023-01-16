@@ -1,5 +1,10 @@
 # Overzicht databanken Belgisch notariaat
-## CRF (centraal register testamenten & huwelijksovereenkomsten)
+Formaliteiten na akte met betrekking tot CRF en CER na akte.
+| Akte            | Subtype                                    | CRF                        | CER | Kost                                                                | Wettelijke basis                                                                                                                                                          |
+| --------------- | ------------------------------------------ | -------------------------- | --- | ------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| EOT             | Regelingsakte met verzaking erfenisrechten | CRT - 80 - Regelingsakte   |     | Inschrijving: 16,50 per partij per akte met een maximum van 66 euro | Mijn inziens ontbreekt wettelijke verplichting. Hoewel aan te raden in alle gevallen, is dit enkel vereist bij aanpassing contractuele erfstelling - artikel 4.261, §2 BW |
+| Erfovereenkomst | Globale of punctele erfovereenkomst        | CRT - 60 - Erfovereenkomst |     | Inschrijving: 16,50 per partij per akte met een maximum van 66 euro | Artikel 4.261, §2, 2° BW                                                                                                                                                  |
+| Huwelijksovereenkomst                |                                            |                            |     |                                                                     |                                                                                                                                                                           |
 
 
-Inschrijvingen in databanken notariaat
+Alle kosten zijn exclusief BTW
