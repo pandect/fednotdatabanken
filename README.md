@@ -12,3 +12,6 @@ Formaliteiten na akte met betrekking tot CRF en CER na akte.
 | Testament | Registratie authentiek testament (reeds opgenomen in CRT)   |                                                                   |     | Registratierecht |                                                                                                                                                  |
 
 Alle kosten zijn exclusief BTW
+
+Toevoegen:
+Naban - gegevens reg (partijen - aktetype,...)
