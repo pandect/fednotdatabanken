@@ -31,7 +31,7 @@ Formaliteiten na akte met betrekking tot CRF en CER na akte.
 
 Alle kosten zijn exclusief BTW
 
-[^3]: Volgens Tine ook soms CRH :rocket
+[^3]: Volgens Tine ook soms CRH :grin:
 [^1]: Tevens herroeping
 [^5]: Ook voor wijzigingen in combinatie met andere
 [^4]: Ook schenking met punctuele erfovereenkomst
