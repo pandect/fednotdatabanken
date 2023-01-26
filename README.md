@@ -31,7 +31,7 @@ Formaliteiten na akte met betrekking tot CRF en CER na akte.
 
 Alle kosten zijn exclusief BTW
 
-[^3]: Volgens Tine ook soms CRH
+[^3]: Volgens Tine ook soms CRH :rocket
 [^1]: Tevens herroeping
 [^5]: Ook voor wijzigingen in combinatie met andere
 [^4]: Ook schenking met punctuele erfovereenkomst
@@ -61,7 +61,7 @@ Overeenkomst van 16 mei 1972 inzake de vaststelling van een stelsel van registra
 | CRT  | 25     | Eigenhandig testament na overlijden                                                                                                                               |
 | CRT  | 30     | Verklaring van behoud                                                                                                                                             |
 | CRT  | 40     | Contractuele erfstelling en giften tussen echtgenoten van toekomstige goederen                                                                                    |
-| CRT  | 50     | *onbestaande voor akten na 1/7/2022*                                                                                                                              |
+| CRT  | 50     | ~~onbestaande voor akten na 1/7/2022~~                                                                                                                            |
 | CRT  | 60     | Erfovereenkomst (inclusief de Valkeniersbedingen sinds 1/09/2018)                                                                                                 |
 | CRT  | 70     | Internationaal testament                                                                                                                                          |
 | CRT  | 80     | Voorafgaande overeenkomst of overeenkomst volgend op de echtscheiding die een afwijking inhoudt betreffende de al gedane regeling van de erfrechtelijke devolutie |
@@ -88,7 +88,7 @@ Overeenkomst van 16 mei 1972 inzake de vaststelling van een stelsel van registra
 
 ## NABAN
 
-*Nog aanvullen*
+### Nog verder uit te werken
 
 Toevoegen:
 Naban - gegevens reg (partijen - aktetype,...)
