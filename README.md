@@ -88,7 +88,7 @@ Overeenkomst van 16 mei 1972 inzake de vaststelling van een stelsel van registra
 
 ## NABAN
 
-### Nog verder uit te werken
+### Nog verder uit te werken - todo
 
 Toevoegen:
 Naban - gegevens reg (partijen - aktetype,...)
