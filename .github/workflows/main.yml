@@ -6,6 +6,16 @@ jobs:
   convert_via_pandoc:
     runs-on: ubuntu-latest
     steps:
+      - name: Check out repository
+        uses: actions/checkout@v3
+      - name: Oplijsten
+        run: |
+          ls -a
       - uses: docker://pandoc/latex:latest
         with:
-          args: "--help" # gets appended to pandoc command
+          args: "--output=test.pdf README.md" # gets appended to pandoc command
+      - name: Copy output
+        uses: actions/upload-artifact@v3
+        with:
+          name: output
+          path: test.pdf          
