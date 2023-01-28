@@ -1,4 +1,4 @@
-name: Simple Usage
+name: Render HTML from Markdown
 
 on: push
 
@@ -13,7 +13,8 @@ jobs:
           ls -a
       - uses: docker://pandoc/latex:latest
         with:
-          args: "--output=test.pdf README.md" # gets appended to pandoc command
+          # args: "--output=test.pdf README.md" # gets appended to pandoc command
+          args: "--version"     
       - name: Copy output
         uses: actions/upload-artifact@v3
         with:
