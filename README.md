@@ -29,7 +29,7 @@ Formaliteiten na akte met betrekking tot CRF en CER na akte.
 | Erfopvolging             | Verklaring van verwerping                                                                           |                     | X   | €16,50 per partij, tenzij kosteloos[^8]                            | [Artikel 4.126, §1, 4° BW](https://www.ejustice.just.fgov.be/eli/wet/2022/01/19/2022B30600/justel#Art.4.126 "Belgisch Staatsblad")                                                                                                                                                  |
 | Erfopvolging             | Verklaring van aanvaarding onder voorrecht van boedelbeschrijving                                   |                     | X   | €16,50 per partij                                                  | [Artikel 4.126, §1, 5° BW](https://www.ejustice.just.fgov.be/eli/wet/2022/01/19/2022B30600/justel#Art.4.126 "Belgisch Staatsblad")                                                                                                                                                  |
 
-Alle kosten zijn exclusief BTW
+<sup>Alle kosten zijn exclusief BTW</sup>
 
 [^3]: Volgens Tine ook soms CRH
 [^1]: Tevens herroeping
@@ -41,6 +41,7 @@ Alle kosten zijn exclusief BTW
 [^8]: Elke inschrijving in het centraal erfrechtregister van een verklaring van verwerping opgemaakt onder de voorwaarden bedoeld in artikel 4.44, lid 3, van het Burgerlijk Wetboek, is kosteloos.
 
 Overeenkomst van 16 mei 1972 inzake de vaststelling van een stelsel van registratie van testamenten, artikel 4:
+
 ```
 1. In een Overeenkomstsluitende Staat dienen te worden geregistreerd:
 
@@ -51,6 +52,7 @@ a)    de testamenten die bij authentieke akte, ten overstaan van een notaris, ee
 2. Eveneens dient registratie te geschieden van de terugneming, de herroeping en alle andere wijzigingen van ingevolge dit artikel geregistreerde testamenten, indien zij gesteld zijn in een vorm welke volgens het vorige lid registratie met zich brengt.
 3. Elk der Overeenkomstsluitende Partijen heeft de bevoegdheid het bepaalde in dit artikel niet toe te passen op testamenten in bewaring gegeven bij militaire autoriteiten.
 ```
+
 ## Overzicht nummering
 
 ### CRT
