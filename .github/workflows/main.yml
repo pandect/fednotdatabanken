@@ -14,7 +14,8 @@ jobs:
       - uses: docker://pandoc/latex:latest
         with:
           # args: "--output=test.pdf README.md" # gets appended to pandoc command
-          args: "--version"     
+          args: "--output=index.html README.md --from gfm+footnotes --template=GitHub.html5" # gets appended to pandoc command
+          # args: "--version"     
       - name: Copy output
         uses: actions/upload-artifact@v3
         with:
