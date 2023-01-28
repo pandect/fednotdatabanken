@@ -31,7 +31,7 @@ Formaliteiten na akte met betrekking tot CRF en CER na akte.
 
 Alle kosten zijn exclusief BTW
 
-[^3]: Volgens Tine ook soms CRH :grin:
+[^3]: Volgens Tine ook soms CRH
 [^1]: Tevens herroeping
 [^5]: Ook voor wijzigingen in combinatie met andere
 [^4]: Ook schenking met punctuele erfovereenkomst
@@ -41,15 +41,16 @@ Alle kosten zijn exclusief BTW
 [^8]: Elke inschrijving in het centraal erfrechtregister van een verklaring van verwerping opgemaakt onder de voorwaarden bedoeld in artikel 4.44, lid 3, van het Burgerlijk Wetboek, is kosteloos.
 
 Overeenkomst van 16 mei 1972 inzake de vaststelling van een stelsel van registratie van testamenten, artikel 4:
->1. In een Overeenkomstsluitende Staat dienen te worden geregistreerd:
->
->(a)    de testamenten die bij authentieke akte, ten overstaan van een notaris, een met openbaar gezag beklede autoriteit of elke andere daartoe bij de wet van die Staat bevoegd verklaarde persoon zijn opgemaakt, alsmede de andere testamenten die bij officiële akte bij een van de autoriteiten of personen, bevoegd om ze in bewaring te nemen, in bewaring zijn gegeven;
->
->(b)    de olografische uiterste wilsbeschikkingen die, indien de wetgeving van genoemde Staat zulks toelaat aan een notaris, een met openbaar gezag beklede autoriteit of aan elke andere, daartoe bij de wet van die Staat bevoegd verklaarde persoon zijn ter hand gesteld zonder dat een officiële akte van bewaargeving is opgemaakt. Indien de wetgeving van die Staat zulks niet verbiedt, kan de erflater zich tegen de registratie verzetten.
->
->2. Eveneens dient registratie te geschieden van de terugneming, de herroeping en alle andere wijzigingen van ingevolge dit artikel geregistreerde testamenten, indien zij gesteld zijn in een vorm welke volgens het vorige lid registratie met zich brengt.
->3. Elk der Overeenkomstsluitende Partijen heeft de bevoegdheid het bepaalde in dit artikel niet toe te passen op testamenten in bewaring gegeven bij militaire autoriteiten.
+```
+1. In een Overeenkomstsluitende Staat dienen te worden geregistreerd:
 
+a)    de testamenten die bij authentieke akte, ten overstaan van een notaris, een met openbaar gezag beklede autoriteit of elke andere daartoe bij de wet van die Staat bevoegd verklaarde persoon zijn opgemaakt, alsmede de andere testamenten die bij officiële akte bij een van de autoriteiten of personen, bevoegd om ze in bewaring te nemen, in bewaring zijn gegeven;
+
+(b)    de olografische uiterste wilsbeschikkingen die, indien de wetgeving van genoemde Staat zulks toelaat aan een notaris, een met openbaar gezag beklede autoriteit of aan elke andere, daartoe bij de wet van die Staat bevoegd verklaarde persoon zijn ter hand gesteld zonder dat een officiële akte van bewaargeving is opgemaakt. Indien de wetgeving van die Staat zulks niet verbiedt, kan de erflater zich tegen de registratie verzetten.
+
+2. Eveneens dient registratie te geschieden van de terugneming, de herroeping en alle andere wijzigingen van ingevolge dit artikel geregistreerde testamenten, indien zij gesteld zijn in een vorm welke volgens het vorige lid registratie met zich brengt.
+3. Elk der Overeenkomstsluitende Partijen heeft de bevoegdheid het bepaalde in dit artikel niet toe te passen op testamenten in bewaring gegeven bij militaire autoriteiten.
+```
 ## Overzicht nummering
 
 ### CRT
